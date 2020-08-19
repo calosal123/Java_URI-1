@@ -4,6 +4,7 @@ public class Uri1070{
     public static void main(String args[]){
         Scanner teclado = new Scanner(System.in);
 
+        int num1 = num2 = num3 = 0;
         int X = teclado.nextInt();
 
         // como eu tenho certeza que X vai começar num impar??
